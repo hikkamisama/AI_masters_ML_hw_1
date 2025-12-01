@@ -1,6 +1,6 @@
 streamlit
+scikit-learn==1.6.1
 numpy
-scikit-learn
 pickle
 itertools
 pandas
